@@ -6,8 +6,9 @@
 
 - `domain/contract.json`：领域角色、状态、约束和样例。
 - `src/domain_contract/`：契约读取与确定性校验。
+- `src/review_appeal/`：评价接收、异常复核案件、发布评价集冻结与讲解员视图的后端实现。
 - `tools/check_contract.py`：命令行摘要检查。
-- `tests/`：契约完整性回归测试。
+- `tests/`：契约完整性与后端行为回归测试。
 
 ## 验证
 
